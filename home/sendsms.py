@@ -5,8 +5,6 @@ def sendsms(mess):
     message = client.messages \
                         .create(
                             body=mess,
-                            from_='+19896536301',
-                            to='+919801777249'
     )
     print(message.sid)
     print('message sent successfully')
