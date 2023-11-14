@@ -1,1 +1,1 @@
-# Etherium , Solidity , Django
+# Ethereum , Solidity , Django
